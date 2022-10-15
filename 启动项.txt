@@ -1,0 +1,1 @@
+-worldwide -novid -nojoy -refresh 165 -tickrate 128 +exec auto.cfg
